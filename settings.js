@@ -40,27 +40,27 @@ global.vcardowner = ['94772291528'] //ur owner number
 global.ownername = "Nadeesha Editor" //ur owner name
 global.ytname = "YT: Pappala" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Sri Lanka, Kegalla, Daraniyagala ,udamaliboda" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['94772291528']
 global.ownertag = '94772291528' //ur tag number
 global.botnumber = '94772291528' //Add your Bot Number For Log
 global.botname = 'Nadeesha Editor' //ur bot name
-global.ig = "https://www.youtube.com/channel/UCLNUXtky-Kb9JE4T8eMx9fQ/featured" //your theme url which will be displayed on whatsapp
+global.ig = "https://www.instagram.com/nadee_editor/" //your theme url which will be displayed on whatsapp
 global.myweb = "https://www.youtube.com/channel/UCLNUXtky-Kb9JE4T8eMx9fQ/featured" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
+global.sc = 'https://www.youtube.com/channel/UCLNUXtky-Kb9JE4T8eMx9fQ/featured' //script link
 global.linkz = 'https://www.youtube.com/channel/UCLNUXtky-Kb9JE4T8eMx9fQ/featured'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "Nadeesha Editor" //ur sticker watermark packname
 global.author = "Nadeesha Editor" //ur sticker watermark author
 global.footer = "® Nadeesha Editor"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.aliveimg ="https://scontent.fcmb10-1.fna.fbcdn.net/v/t39.30808-6/308623063_192938323133818_7972153612115203677_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=G4vAnX0CY9IAX8rU0l1&_nc_ht=scontent.fcmb10-1.fna&oh=00_AT8BCP_zkcCeWmXna-5r0C2pO7cPoQ9HWyhLsJHVKxAPYw&oe=635757B0"
+global.allmenuimg ="https://scontent.fcmb10-1.fna.fbcdn.net/v/t39.30808-6/312019434_197316296029354_8218464049098288790_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=3TAgePRD_MQAX-ywtDD&_nc_ht=scontent.fcmb10-1.fna&oh=00_AT8fsVS4VxEM4YPqTupGamQ0LcEZkaFuIWaBVKLNLlPLwA&oe=6357893B"
+global.welcomeimg= "https://scontent.fcmb10-1.fna.fbcdn.net/v/t39.30808-6/306078066_191983159896001_9220381245636076601_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=sWdEtHs48dcAX-punhx&_nc_ht=scontent.fcmb10-1.fna&oh=00_AT9MJ7ShETfZKqe9KdOIVb4BUpHdHcakd2KOK0MVKH5c8g&oe=6357E196"
+global.gbyeimg = "https://scontent.fcmb10-1.fna.fbcdn.net/v/t39.30808-6/295059491_181843024243348_4686980912920123270_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=FgirmroNS5oAX8F77s3&_nc_ht=scontent.fcmb10-1.fna&oh=00_AT8M1N18iIUkaCnmFdk-HOT9mENlBVIZeJd_6g7ujzspOQ&oe=63583700"
+global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි... #nadee #nadee_Editor"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94772291528'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
